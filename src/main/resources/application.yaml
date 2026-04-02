@@ -6,7 +6,7 @@ langchain4j:
   open-ai:
     chat-model:
       base-url: https://api.groq.com/openai/v1
-      api-key: ${OPENAI_API_KEY:gsk_QjfwYTOXAHX06omd}
+      api-key: ${OPENAI_API_KEY}
       model-name: llama-3.1-8b-instant
       #gpt-4o-mini
       temperature: 0.7
